@@ -1,5 +1,8 @@
 body {
   background-image: url("backGroundImg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 h1 {
@@ -12,5 +15,5 @@ h1 {
 #closeBox {
   height: 150px;
   width: 200px;
-  margin-left: 300px;
+  margin-left: 535px;
 }

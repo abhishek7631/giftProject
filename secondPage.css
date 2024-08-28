@@ -1,10 +1,13 @@
 body {
   background-image: url("backGroundImg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 img {
   height: 200px;
   width: 250px;
-  margin-left: 300px;
+  margin-left: 470px;
   margin-top: 70px;
 }
